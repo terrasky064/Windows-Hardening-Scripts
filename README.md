@@ -1,6 +1,6 @@
 # Windows-Hardening-Scripts
 #Copyright 2021 Spencer Peloquin & Jaswant Uppal
-#Liscensed under the MIT Liscense (C2021)
+#Liscensed under the 3-Clause BSD Liscense (C2021)
 #In order to use these scripts on Windows:
 #1. Double Click on First Run v2.bat
 #2. If the windows firewall tries to block it, click "more info" and "run anyway"
